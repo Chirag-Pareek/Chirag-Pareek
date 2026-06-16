@@ -227,13 +227,13 @@ fun_fact:    I ship AI apps that actually get used
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Chirag-Pareek)
+[![X](https://img.shields.io/badge/X-1E1E1E?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/lchi_no/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=C5B0F4)](https://www.linkedin.com/in/chiragpareek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=C5B0F4)](https://www.linkedin.com/in/chirag-pareek-369b4b265/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=FF3D8B)](mailto:chiragpareek@email.com)
+[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=FF3D8B)](mailto:chiragpareek677@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=DCEEB1)](https://github.com/Chirag-Pareek/Chirag_Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=DCEEB1)](https://chiragpareek.me)
 
 <br/>
 
