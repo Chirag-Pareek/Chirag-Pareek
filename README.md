@@ -193,15 +193,7 @@ fun_fact:    I ship AI apps that actually get used
 
 ---
 
-## 🏆 Achievements & Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chirag-Pareek&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false" width="100%" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 📈 Activity & Contribution
 
